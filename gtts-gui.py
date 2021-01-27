@@ -4,6 +4,8 @@
     Gets a multiline input, select a language, and either playback or save the speech output.
     Playback speed can also be changed.
 
+    Original example: https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Google_TTS.py
+
     author: vivian-ng
 '''
 import PySimpleGUI as sg
