@@ -1,0 +1,4 @@
+### Requirements for gtts-gui
+gTTS
+pydub
+pysimplegui
