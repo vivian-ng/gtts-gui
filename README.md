@@ -11,6 +11,10 @@ pydub
 PySimpleGUI
 ```
 
+### Additional notes for Windows
+For `pydub` to properly function, install `simpleaudio` and `ffmpeg` and make sure `ffmpeg` is in your path. You will need to edit your environment variables to add the `ffmpeg` folder to the path. See "[How to Install FFmpeg on Windows](https://www.wikihow.com/Install-FFmpeg-on-Windows)". `simpleaudio` can be install using `pip` by `pip install simpleaudio`.
+
+Also, on Windows, you may need to download the Visual Studio build tools in order to install some packages. You can download the build tools from [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/). Instructions can be referred from [here](https://stackoverflow.com/a/49986365).
 ## Limitations
 
 Currently, the voices available are limited to whatever voice is available for that language on Google's service.
