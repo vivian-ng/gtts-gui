@@ -46,3 +46,5 @@ Also, on Windows, you may need to download the Visual Studio build tools in orde
 ## Limitations
 
 Currently, the voices available are limited to whatever voice is available for that language on Google's service.
+
+<a href="https://www.buymeacoffee.com/vivianng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
